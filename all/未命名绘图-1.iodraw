@@ -121,7 +121,7 @@
         <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1043" y="790.25" width="50" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Y&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="350" width="274.5" height="60" as="geometry" />
         </mxCell>
       </root>
