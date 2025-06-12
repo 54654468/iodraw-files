@@ -175,7 +175,7 @@
             <mxPoint x="850" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-62" value="W&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-62" value="W&lt;sub style=&quot;font-size: 32px;&quot;&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="403.5" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
