@@ -182,7 +182,7 @@
           <mxGeometry x="644.5" y="470" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-64" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;B(x)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="550" y="762" width="60" height="33.75" as="geometry" />
+          <mxGeometry x="530" y="730" width="60" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-65" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;c&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="940" y="686.75" width="60" height="23.75" as="geometry" />
@@ -191,7 +191,7 @@
           <mxGeometry x="190" y="714.75" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-71" value="Bspline Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="839.75" y="470" width="318.5" height="30" as="geometry" />
+          <mxGeometry x="731.5" y="500" width="318.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-73" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="113.5" y="587.75" width="466.5" height="122.25" as="geometry" />
