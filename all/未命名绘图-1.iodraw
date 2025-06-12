@@ -115,11 +115,8 @@
             <mxPoint x="1074.5" y="666.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="807.5" as="sourcePoint" />
-            <mxPoint x="603.75" y="807.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="790" width="120" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
