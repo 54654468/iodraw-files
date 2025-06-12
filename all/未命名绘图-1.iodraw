@@ -190,8 +190,8 @@
         <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-69" value="Feature Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="230" y="710" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-71" value="Feature Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="240" y="720" width="210" height="30" as="geometry" />
+        <mxCell id="Kkf4Z4y9RMa_1Mi0ANGf-71" value="Bspline Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="851.5" y="540" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
