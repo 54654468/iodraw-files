@@ -25,10 +25,10 @@
             <mxPoint x="510" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4CRlw3z6nTkJk6X8AOa-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T4CRlw3z6nTkJk6X8AOa-9" value="语音特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="310" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T4CRlw3z6nTkJk6X8AOa-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T4CRlw3z6nTkJk6X8AOa-11" value="视觉特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309" y="310" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4CRlw3z6nTkJk6X8AOa-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
