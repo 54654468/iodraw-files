@@ -65,7 +65,13 @@
           <mxGeometry x="470" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T4CRlw3z6nTkJk6X8AOa-22" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;因果效应&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="390" width="90" height="30" as="geometry" />
+          <mxGeometry x="170" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T4CRlw3z6nTkJk6X8AOa-23" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;因果效应&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T4CRlw3z6nTkJk6X8AOa-24" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;因果效应&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
