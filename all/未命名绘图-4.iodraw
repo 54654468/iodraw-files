@@ -226,7 +226,7 @@
             <mxPoint x="484" y="597" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-12" value="Trained Weight W" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="rzDipbADLtpNz6QS4iap-12" value="Trained Weight W" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1622" y="168" width="201" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-13" value="Extract M = [c₁W_b₁, ..., c_bW_b₁; ... ; c₁W_b_nf, ..., c_bW_b_nf]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
