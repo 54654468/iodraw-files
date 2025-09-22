@@ -227,16 +227,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-12" value="Trained Weight W" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1425" y="312" width="186" height="49" as="geometry" />
+          <mxGeometry x="1437" y="309.25" width="186" height="49" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-13" value="Extract M = [c₁W_b₁, ..., c_bW_b₁; ... ; c₁W_b_nf, ..., c_bW_b_nf]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1397" y="411" width="242" height="84" as="geometry" />
+          <mxGeometry x="1409" y="408.25" width="242" height="84" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-14" value="SVD: M = U Σ Vᵀ → 取 σ₁, u₁, v₁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1398" y="544" width="241" height="66" as="geometry" />
+          <mxGeometry x="1493.5" y="530.62" width="241" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-15" value="Recover: c = √σ₁ v₁,   W_b = √σ₁ u₁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1392" y="660" width="420" height="355.5" as="geometry" />
+          <mxGeometry x="1404" y="657.25" width="420" height="355.5" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="rzDipbADLtpNz6QS4iap-12" target="rzDipbADLtpNz6QS4iap-13">
           <mxGeometry relative="1" as="geometry">
