@@ -226,37 +226,6 @@
             <mxPoint x="484" y="597" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-1" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="1416" y="254.37" width="564" height="741.63" as="geometry" />
-        </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="rzDipbADLtpNz6QS4iap-1" source="rzDipbADLtpNz6QS4iap-4" target="rzDipbADLtpNz6QS4iap-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="rzDipbADLtpNz6QS4iap-1" source="rzDipbADLtpNz6QS4iap-4" target="rzDipbADLtpNz6QS4iap-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Organization" treeRoot="1" id="rzDipbADLtpNz6QS4iap-4">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="rzDipbADLtpNz6QS4iap-1">
-            <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="rzDipbADLtpNz6QS4iap-5" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="rzDipbADLtpNz6QS4iap-1">
-          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-6" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="rzDipbADLtpNz6QS4iap-1">
-          <mxGeometry x="160" y="140" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-7" value="Composite State" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="1068" y="576" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-8" value="Subtitle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="rzDipbADLtpNz6QS4iap-7">
-          <mxGeometry y="30" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="rzDipbADLtpNz6QS4iap-7" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1148" y="696" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
