@@ -236,7 +236,7 @@
           <mxGeometry x="1560" y="396" width="234.5" height="115.62" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-15" value="Recover: c = √σ₁ v₁,   W_b = √σ₁ u₁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1464" y="572.25" width="420" height="355.5" as="geometry" />
+          <mxGeometry x="1476" y="572.25" width="408" height="207.75" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="rzDipbADLtpNz6QS4iap-12" target="rzDipbADLtpNz6QS4iap-13">
           <mxGeometry relative="1" as="geometry">
