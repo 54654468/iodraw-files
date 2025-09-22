@@ -227,10 +227,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-12" value="Trained Weight W" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1587" y="251.5" width="186" height="49" as="geometry" />
+          <mxGeometry x="1579.5" y="199" width="201" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-13" value="Extract M = [c₁W_b₁, ..., c_bW_b₁; ... ; c₁W_b_nf, ..., c_bW_b_nf]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1559" y="368.5" width="242" height="84" as="geometry" />
+          <mxGeometry x="1469.5" y="338" width="421" height="171.5" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-14" value="SVD: M = U Σ Vᵀ → 取 σ₁, u₁, v₁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1562.75" y="510.5" width="234.5" height="115.62" as="geometry" />
