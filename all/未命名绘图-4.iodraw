@@ -232,7 +232,7 @@
         <mxCell id="rzDipbADLtpNz6QS4iap-13" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1452" y="317.5" width="540" height="171.5" as="geometry" />
         </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-14" value="SVD: M = U Σ Vᵀ → 取 σ₁, u₁, v₁" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="rzDipbADLtpNz6QS4iap-14" value="SVD: &#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1605.25" y="534.5" width="234.5" height="115.62" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-15" value="Recover: c = √σ₁ v₁,   W_b = √σ₁ u₁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
