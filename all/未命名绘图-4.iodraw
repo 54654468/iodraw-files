@@ -226,29 +226,29 @@
             <mxPoint x="484" y="597" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-12" value="Trained Weight W" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="rzDipbADLtpNz6QS4iap-12" value="Trained Weight W" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1581" y="204" width="186" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-13" value="Extract M = [c₁W_b₁, ..., c_bW_b₁; ... ; c₁W_b_nf, ..., c_bW_b_nf]" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="rzDipbADLtpNz6QS4iap-13" value="Extract M = [c₁W_b₁, ..., c_bW_b₁; ... ; c₁W_b_nf, ..., c_bW_b_nf]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1552.5" y="314" width="242" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-14" value="SVD: M = U Σ Vᵀ → 取 σ₁, u₁, v₁" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1553.5" y="445.62" width="241" height="66" as="geometry" />
+        <mxCell id="rzDipbADLtpNz6QS4iap-14" value="SVD: M = U Σ Vᵀ → 取 σ₁, u₁, v₁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="396" width="234.5" height="115.62" as="geometry" />
         </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-15" value="Recover: c = √σ₁ v₁,   W_b = √σ₁ u₁" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="rzDipbADLtpNz6QS4iap-15" value="Recover: c = √σ₁ v₁,   W_b = √σ₁ u₁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1464" y="572.25" width="420" height="355.5" as="geometry" />
         </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fillColor=#ffe6cc;strokeColor=#000000;" edge="1" parent="1" source="rzDipbADLtpNz6QS4iap-12" target="rzDipbADLtpNz6QS4iap-13">
+        <mxCell id="rzDipbADLtpNz6QS4iap-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="rzDipbADLtpNz6QS4iap-12" target="rzDipbADLtpNz6QS4iap-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fillColor=#ffe6cc;strokeColor=#000000;" edge="1" parent="1" source="rzDipbADLtpNz6QS4iap-13" target="rzDipbADLtpNz6QS4iap-14">
+        <mxCell id="rzDipbADLtpNz6QS4iap-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="rzDipbADLtpNz6QS4iap-13" target="rzDipbADLtpNz6QS4iap-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#ffe6cc;strokeColor=#000000;" edge="1" parent="1" source="rzDipbADLtpNz6QS4iap-14" target="rzDipbADLtpNz6QS4iap-15">
+        <mxCell id="rzDipbADLtpNz6QS4iap-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="rzDipbADLtpNz6QS4iap-14" target="rzDipbADLtpNz6QS4iap-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
