@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-1" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="1008" y="516" width="280" height="220" as="geometry" />
+          <mxGeometry x="1416" y="254.37" width="564" height="741.63" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="rzDipbADLtpNz6QS4iap-1" source="rzDipbADLtpNz6QS4iap-4" target="rzDipbADLtpNz6QS4iap-5">
           <mxGeometry relative="1" as="geometry" />
