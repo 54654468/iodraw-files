@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-12" value="Trained Weight W" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1622" y="168" width="201" height="84.5" as="geometry" />
+          <mxGeometry x="1622" y="205.75" width="201" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-13" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1452" y="317.5" width="540" height="171.5" as="geometry" />
@@ -239,7 +239,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-15" value="Recover: c&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1518.5" y="713" width="408" height="129.75" as="geometry" />
+          <mxGeometry x="1518.51" y="684" width="408" height="129.75" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="rzDipbADLtpNz6QS4iap-12" target="rzDipbADLtpNz6QS4iap-13">
           <mxGeometry relative="1" as="geometry">
