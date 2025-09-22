@@ -229,7 +229,7 @@
         <mxCell id="rzDipbADLtpNz6QS4iap-12" value="Trained Weight W" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1622" y="168" width="201" height="84.5" as="geometry" />
         </mxCell>
-        <mxCell id="rzDipbADLtpNz6QS4iap-13" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="rzDipbADLtpNz6QS4iap-13" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1512" y="317.5" width="421" height="171.5" as="geometry" />
         </mxCell>
         <mxCell id="rzDipbADLtpNz6QS4iap-14" value="SVD: M = U Σ Vᵀ → 取 σ₁, u₁, v₁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
