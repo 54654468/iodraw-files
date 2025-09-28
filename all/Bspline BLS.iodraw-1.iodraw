@@ -22,14 +22,16 @@
         <mxCell id="_yld-aKYxh9GjZr-FnZD-35" value="&lt;div style=&quot;text-align: left; font-size: 25px;&quot;&gt;&lt;font color=&quot;#111133&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;letter-spacing: 0.064px; font-size: 25px;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 25px;&quot;&gt;&lt;font color=&quot;#111133&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;letter-spacing: 0.064px; font-size: 25px;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Concatenation&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 25px;&quot;&gt;&lt;font color=&quot;#111133&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;letter-spacing: 0.064px; font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;$$A =[Z \ |\&amp;nbsp; B]$$&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFE599;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1420" y="350" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="_yld-aKYxh9GjZr-FnZD-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="1" source="_yld-aKYxh9GjZr-FnZD-36" target="_yld-aKYxh9GjZr-FnZD-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_yld-aKYxh9GjZr-FnZD-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="1" target="_yld-aKYxh9GjZr-FnZD-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-930" y="533.1800000000001" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_yld-aKYxh9GjZr-FnZD-36" value="&lt;div style=&quot;text-align: left; font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot; color=&quot;#111133&quot;&gt;&lt;span style=&quot;font-size: 25px; letter-spacing: 0.064px;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot; color=&quot;#111133&quot;&gt;&lt;span style=&quot;font-size: 25px; letter-spacing: 0.064px;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Linear Output&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot; color=&quot;#111133&quot;&gt;&lt;span style=&quot;font-size: 25px; letter-spacing: 0.064px;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;$$AW&amp;nbsp; = \sum Z_iW_{f_i} + \sum B(Z_i) W_{b_i}$$&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFE599;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="345" width="490" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_yld-aKYxh9GjZr-FnZD-37" value="&lt;div style=&quot;text-align: left; font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot; color=&quot;#111133&quot;&gt;&lt;span style=&quot;letter-spacing: 0.064px; font-size: 25px;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Prediction&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFE599;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="530" width="210" height="80" as="geometry" />
+          <mxGeometry x="-785" y="598.1800000000001" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_yld-aKYxh9GjZr-FnZD-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="1" source="_yld-aKYxh9GjZr-FnZD-38" target="_yld-aKYxh9GjZr-FnZD-34">
           <mxGeometry relative="1" as="geometry" />
@@ -257,19 +259,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_yld-aKYxh9GjZr-FnZD-41" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;Extract \(W_b\) from \(W\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFE599;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="610" width="260" height="60" as="geometry" />
+          <mxGeometry x="-1250" y="618.18" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_yld-aKYxh9GjZr-FnZD-42" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;letter-spacing: 0.064px; color: rgb(17, 17, 51); background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;From \( M = W_{stack} c^T\)&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFE599;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="730" width="260" height="60" as="geometry" />
+          <mxGeometry x="-1250" y="738.18" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_yld-aKYxh9GjZr-FnZD-44" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;$$c = \sqrt{\sigma_1} v_1$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFE599;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="960" width="280" height="110" as="geometry" />
+          <mxGeometry x="-910" y="968.18" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_yld-aKYxh9GjZr-FnZD-45" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;Explicit B-spline:&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;$$B(x) = \sum_{j=1}^{b} c_j B_j(x)$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFE599;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="1090" width="280" height="140" as="geometry" />
+          <mxGeometry x="-910" y="1098.18" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_yld-aKYxh9GjZr-FnZD-46" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;letter-spacing: 0.064px; color: rgb(17, 17, 51); background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;From \( M = W_{stack} c^T\)&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FFE599;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="860" width="260" height="60" as="geometry" />
+          <mxGeometry x="-1250" y="868.18" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
