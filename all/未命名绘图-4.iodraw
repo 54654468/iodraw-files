@@ -268,7 +268,7 @@
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;shadow=1;" edge="1" parent="1" source="XPeTRrTn-zCAmBhQ9ene-75" target="XPeTRrTn-zCAmBhQ9ene-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XPeTRrTn-zCAmBhQ9ene-75" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;\(W_b\)&amp;nbsp; \(W\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+        <mxCell id="XPeTRrTn-zCAmBhQ9ene-75" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\(W\)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\(W_b\)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="654.53" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;shadow=1;" edge="1" parent="1" source="XPeTRrTn-zCAmBhQ9ene-77" target="XPeTRrTn-zCAmBhQ9ene-83">
