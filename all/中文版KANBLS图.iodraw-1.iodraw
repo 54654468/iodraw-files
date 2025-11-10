@@ -190,7 +190,7 @@
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-53" value="&lt;b&gt;可解释性共识分析&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;container=0;shadow=1;" parent="XPeTRrTn-zCAmBhQ9ene-6" vertex="1">
           <mxGeometry x="895.31" y="61.519999999999996" width="500" height="29.77" as="geometry" />
         </mxCell>
-        <mxCell id="UVFjwLZVpkyw9X7WfFrf-1" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;$$c = \sqrt{\sigma_1} v_1$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="XPeTRrTn-zCAmBhQ9ene-6">
+        <mxCell id="UVFjwLZVpkyw9X7WfFrf-1" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;整体共识分数&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;信任度指标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="XPeTRrTn-zCAmBhQ9ene-6">
           <mxGeometry x="1020" y="511.78999999999985" width="210" height="63.18" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;container=0;shadow=1;" parent="XPeTRrTn-zCAmBhQ9ene-4" vertex="1">
