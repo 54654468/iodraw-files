@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.8151 SLBChan/10 SLBVPV/64-bit" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1179" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1002" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,13 +14,13 @@
           <mxGeometry x="1560" y="640" width="300" height="670" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-4" value="" style="group;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="550" y="530" width="1460" height="756.35" as="geometry" />
+          <mxGeometry x="550" y="530" width="1518" height="756.35" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;container=0;shadow=0;" parent="XPeTRrTn-zCAmBhQ9ene-4" vertex="1">
           <mxGeometry x="499.53333333333325" y="268.12419165283296" width="456.0222222222222" height="488.2258083471668" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-6" value="" style="group;aspect=fixed;fontFamily=Times New Roman;" parent="XPeTRrTn-zCAmBhQ9ene-4" vertex="1" connectable="0">
-          <mxGeometry width="1460" height="745.2333333333333" as="geometry" />
+          <mxGeometry width="1518" height="745.2333333333333" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;container=0;shadow=0;" parent="XPeTRrTn-zCAmBhQ9ene-6" vertex="1">
           <mxGeometry x="332.17563879930526" y="42.669818020417296" width="288.7620937732572" height="188.5410563692854" as="geometry" />
@@ -190,8 +190,11 @@
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-53" value="&lt;b&gt;可解释性共识分析&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;container=0;shadow=1;" parent="XPeTRrTn-zCAmBhQ9ene-6" vertex="1">
           <mxGeometry x="895.31" y="61.519999999999996" width="500" height="29.77" as="geometry" />
         </mxCell>
-        <mxCell id="UVFjwLZVpkyw9X7WfFrf-1" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;整体共识分数&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;信任度指标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="XPeTRrTn-zCAmBhQ9ene-6">
-          <mxGeometry x="1020" y="511.78999999999985" width="210" height="63.18" as="geometry" />
+        <mxCell id="UVFjwLZVpkyw9X7WfFrf-1" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;整体共识分数&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;信任度指标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="XPeTRrTn-zCAmBhQ9ene-6">
+          <mxGeometry x="1030" y="541.56" width="120" height="34.97" as="geometry" />
+        </mxCell>
+        <mxCell id="UVFjwLZVpkyw9X7WfFrf-3" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;局部性集中分数&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;形态指标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="XPeTRrTn-zCAmBhQ9ene-6">
+          <mxGeometry x="1170" y="541.56" width="130" height="34.97" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;container=0;shadow=1;" parent="XPeTRrTn-zCAmBhQ9ene-4" vertex="1">
           <mxGeometry x="519.9969343146173" y="299.9968220150909" width="416.770032250062" height="87.3242787394585" as="geometry" />
