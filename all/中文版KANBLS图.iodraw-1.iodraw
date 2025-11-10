@@ -302,8 +302,8 @@
             <mxPoint x="1980" y="1216" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPeTRrTn-zCAmBhQ9ene-81" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;可信赖分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1570" y="1146.35" width="280" height="140" as="geometry" />
+        <mxCell id="XPeTRrTn-zCAmBhQ9ene-81" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;可信赖分析&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1570" y="1130" width="280" height="66.35" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-84" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;entryX=0.53;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.679;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;shadow=1;" parent="1" source="XPeTRrTn-zCAmBhQ9ene-70" target="XPeTRrTn-zCAmBhQ9ene-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
