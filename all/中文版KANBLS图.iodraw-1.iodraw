@@ -10,17 +10,14 @@
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#5AA9E6;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="1850" y="300" width="440" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="XPeTRrTn-zCAmBhQ9ene-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#5AA9E6;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="640" width="300" height="670" as="geometry" />
-        </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-4" value="" style="group;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="550" y="530" width="1518" height="756.35" as="geometry" />
+          <mxGeometry x="550" y="530" width="1518" height="770" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;container=0;shadow=0;" parent="XPeTRrTn-zCAmBhQ9ene-4" vertex="1">
           <mxGeometry x="499.53333333333325" y="268.12419165283296" width="456.0222222222222" height="488.2258083471668" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-6" value="" style="group;aspect=fixed;fontFamily=Times New Roman;" parent="XPeTRrTn-zCAmBhQ9ene-4" vertex="1" connectable="0">
-          <mxGeometry width="1518" height="745.2333333333333" as="geometry" />
+          <mxGeometry width="1518" height="770" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;container=0;shadow=0;" parent="XPeTRrTn-zCAmBhQ9ene-6" vertex="1">
           <mxGeometry x="332.17563879930526" y="42.669818020417296" width="288.7620937732572" height="188.5410563692854" as="geometry" />
@@ -195,6 +192,9 @@
         </mxCell>
         <mxCell id="UVFjwLZVpkyw9X7WfFrf-3" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;局部性集中分数&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;形态指标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="XPeTRrTn-zCAmBhQ9ene-6">
           <mxGeometry x="1170" y="511.78999999999996" width="130" height="34.97" as="geometry" />
+        </mxCell>
+        <mxCell id="XPeTRrTn-zCAmBhQ9ene-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#5AA9E6;fillColor=none;dashed=1;dashPattern=8 8;" parent="XPeTRrTn-zCAmBhQ9ene-6" vertex="1">
+          <mxGeometry x="1010" y="100" width="300" height="670" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;container=0;shadow=1;" parent="XPeTRrTn-zCAmBhQ9ene-4" vertex="1">
           <mxGeometry x="519.9969343146173" y="299.9968220150909" width="416.770032250062" height="87.3242787394585" as="geometry" />
