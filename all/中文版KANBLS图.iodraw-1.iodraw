@@ -187,7 +187,7 @@
             <mxPoint x="779.7072686678242" y="548.7537061695518" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPeTRrTn-zCAmBhQ9ene-53" value="&lt;b&gt;对训练完权重矩阵重构&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;container=0;shadow=1;" parent="XPeTRrTn-zCAmBhQ9ene-6" vertex="1">
+        <mxCell id="XPeTRrTn-zCAmBhQ9ene-53" value="&lt;b&gt;可解释性共识分析&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;container=0;shadow=1;" parent="XPeTRrTn-zCAmBhQ9ene-6" vertex="1">
           <mxGeometry x="895.31" y="61.519999999999996" width="500" height="29.77" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;container=0;shadow=1;" parent="XPeTRrTn-zCAmBhQ9ene-4" vertex="1">
