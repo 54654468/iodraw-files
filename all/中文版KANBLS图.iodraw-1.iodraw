@@ -191,10 +191,10 @@
           <mxGeometry x="895.31" y="61.519999999999996" width="500" height="29.77" as="geometry" />
         </mxCell>
         <mxCell id="UVFjwLZVpkyw9X7WfFrf-1" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;整体共识分数&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;信任度指标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="XPeTRrTn-zCAmBhQ9ene-6">
-          <mxGeometry x="1030" y="541.56" width="130" height="34.97" as="geometry" />
+          <mxGeometry x="1020" y="511.78999999999996" width="130" height="34.97" as="geometry" />
         </mxCell>
         <mxCell id="UVFjwLZVpkyw9X7WfFrf-3" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;局部性集中分数&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;形态指标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="XPeTRrTn-zCAmBhQ9ene-6">
-          <mxGeometry x="1170" y="541.56" width="130" height="34.97" as="geometry" />
+          <mxGeometry x="1170" y="511.78999999999996" width="130" height="34.97" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;container=0;shadow=1;" parent="XPeTRrTn-zCAmBhQ9ene-4" vertex="1">
           <mxGeometry x="519.9969343146173" y="299.9968220150909" width="416.770032250062" height="87.3242787394585" as="geometry" />
