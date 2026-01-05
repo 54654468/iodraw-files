@@ -430,7 +430,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-1" value="Phase 2: Explainability Consensus Analysis (Audit)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="920" y="2649" width="1183.95" height="546" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-2" value="Branch B: Trustworthiness Audit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
