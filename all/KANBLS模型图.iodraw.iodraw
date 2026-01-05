@@ -47,7 +47,7 @@
           <mxGeometry x="997.1200000000001" y="1706" width="230.78" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-17" value="$$W_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontFamily=Times New Roman;container=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="995.4618308112131" y="1666.0024855747893" width="59.53857603572314" height="29.769640479360852" as="geometry" />
+          <mxGeometry x="1001.141830811213" y="1666.0024855747893" width="59.53857603572314" height="29.769640479360852" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-18" value="$$W_2$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontFamily=Times New Roman;container=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1192.4613545026045" y="1666.0024855747893" width="59.53857603572314" height="29.769640479360852" as="geometry" />
@@ -549,7 +549,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-42" value="&lt;div&gt;&lt;span style=&quot;font-size: 35px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&lt;b&gt;Trained W&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#330000;container=0;gradientColor=#FFA77A;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1238.59" y="1880" width="221.87" height="60" as="geometry" />
+          <mxGeometry x="1299.06" y="1880" width="221.87" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
