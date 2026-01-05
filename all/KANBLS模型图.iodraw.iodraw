@@ -434,42 +434,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-2" value="Branch B: Trustworthiness Audit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="996.05" y="2193" width="446" height="398" as="geometry" />
+          <mxGeometry x="934" y="2163" width="446" height="398" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-3" value="Quantitative Metrics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1028.05" y="2450" width="382" height="116" as="geometry" />
+          <mxGeometry x="966" y="2420" width="382" height="116" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-4" value="Branch A: Adaptive Rank Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1462.05" y="2193" width="291" height="398" as="geometry" />
+          <mxGeometry x="1400" y="2163" width="291" height="398" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-5" value="ECA Framework" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="2000" width="230" height="90" as="geometry" />
+          <mxGeometry x="1197.95" y="1970" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-6" value="SVD Decomposition&#xa;W = U * S * V.T" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1510.05" y="2218" width="197" height="66" as="geometry" />
+          <mxGeometry x="1448" y="2188" width="197" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-7" value="Extract Dominant Rule&#xa;(Principal Component)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1497.05" y="2334" width="221" height="66" as="geometry" />
+          <mxGeometry x="1435" y="2304" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-8" value="Decoupled Function&#xa;(Soft-GAM)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1507.05" y="2475" width="202" height="66" as="geometry" />
+          <mxGeometry x="1445" y="2445" width="202" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-9" value="N-Seed Training Loop&#xa;(Seed 1...N)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1114.05" y="2218" width="211" height="66" as="geometry" />
+          <mxGeometry x="1052" y="2188" width="211" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-10" value="Calculate Statistics&#xa;(Mean &amp;amp; Std Dev)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1109.05" y="2334" width="221" height="66" as="geometry" />
+          <mxGeometry x="1047" y="2304" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-11" value="OCS Score&#xa;(Stability)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="2475" width="132" height="66" as="geometry" />
+          <mxGeometry x="982.95" y="2445" width="132" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-12" value="LCS Score&#xa;(Locality)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1282.55" y="2470" width="129" height="66" as="geometry" />
+          <mxGeometry x="1220.5" y="2440" width="129" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.72;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-5" target="Fy20U9Be5qf_tPQ4VsUo-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1608.05" y="2168" />
+              <mxPoint x="1546" y="2138" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -486,7 +486,7 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-5" target="Fy20U9Be5qf_tPQ4VsUo-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1220.05" y="2168" />
+              <mxPoint x="1158" y="2138" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -498,14 +498,14 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-10" target="Fy20U9Be5qf_tPQ4VsUo-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1129.05" y="2425" />
+              <mxPoint x="1067" y="2395" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-10" target="Fy20U9Be5qf_tPQ4VsUo-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1310.05" y="2425" />
+              <mxPoint x="1248" y="2395" />
             </Array>
           </mxGeometry>
         </mxCell>
