@@ -442,17 +442,17 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1891.58" y="2407" width="382" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-4" value="Branch A: Adaptive Rank Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-4" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="997.12" y="2150" width="372.88" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-5" value="Explainability Consensus Analysis (ECA) " style="rounded=0;arcSize=20;strokeWidth=2;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1114.3600000000001" y="1990" width="600" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-6" value="SVD Decomposition&#xa;W = U * S * V.T" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1045.12" y="2175" width="197" height="66" as="geometry" />
+          <mxGeometry x="1045.12" y="2175" width="264.88" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-7" value="Extract Dominant Rule&#xa;(Principal Component)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1032.12" y="2291" width="221" height="66" as="geometry" />
+          <mxGeometry x="1342.9099999999999" y="2357" width="287.88" height="89" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-8" value="Decoupled Function&#xa;(Soft-GAM)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1042.12" y="2432" width="202" height="66" as="geometry" />
