@@ -431,7 +431,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="920" y="2649" width="1183.95" height="546" as="geometry" />
+          <mxGeometry x="920" y="2640" width="1183.95" height="546" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-2" value="Branch B: Trustworthiness Audit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="996.05" y="2193" width="446" height="398" as="geometry" />
@@ -461,10 +461,10 @@
           <mxGeometry x="1109.05" y="2334" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-11" value="OCS Score&#xa;(Stability)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1063.05" y="2475" width="132" height="66" as="geometry" />
+          <mxGeometry x="1045" y="2475" width="132" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-12" value="LCS Score&#xa;(Locality)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1245.05" y="2475" width="129" height="66" as="geometry" />
+          <mxGeometry x="1282.55" y="2470" width="129" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.72;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-5" target="Fy20U9Be5qf_tPQ4VsUo-6">
           <mxGeometry relative="1" as="geometry">
