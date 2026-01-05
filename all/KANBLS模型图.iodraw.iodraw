@@ -439,7 +439,7 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-2" value="Branch B: Trustworthiness Audit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="904.06" y="2130" width="446" height="398" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-3" value="Quantitative Metrics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="925.64" y="2387" width="382" height="116" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-4" value="Branch A: Adaptive Rank Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
