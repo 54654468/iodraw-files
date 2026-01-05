@@ -460,7 +460,7 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-9" value="N-Seed Training Loop" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1581.56" y="2100" width="211" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-10" value="Calculate Variance \(\sigma(x)\)" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-10" value="Calculate Variance \(\sigma(x)\)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1577.0600000000002" y="2231" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-11" value="OCS Score&#xa;(Stability)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
