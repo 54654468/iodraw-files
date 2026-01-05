@@ -128,7 +128,12 @@
           <mxGeometry x="1786.78965269164" y="1541.9393675099866" width="43.66162242619697" height="43.66162242619697" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XPeTRrTn-zCAmBhQ9ene-46" target="XPeTRrTn-zCAmBhQ9ene-56">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1590" y="1780" />
+              <mxPoint x="1628" y="1780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;container=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1565.5" y="1326.49" width="49.62" height="283.51" as="geometry" />
