@@ -446,7 +446,7 @@
           <mxGeometry x="1408.68" y="2173" width="291" height="398" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-5" value="ECA Framework" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1210.5300000000002" y="1980" width="240" height="90" as="geometry" />
+          <mxGeometry x="1290.0000000000002" y="1980" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-6" value="SVD Decomposition&#xa;W = U * S * V.T" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1456.68" y="2198" width="197" height="66" as="geometry" />
