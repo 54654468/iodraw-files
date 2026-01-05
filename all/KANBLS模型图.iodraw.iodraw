@@ -40,9 +40,6 @@
             <mxPoint x="1216.1448772016868" y="1526.5049538393253" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XPeTRrTn-zCAmBhQ9ene-15" target="Fy20U9Be5qf_tPQ4VsUo-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-15" value="&lt;font style=&quot;font-size: 45px;&quot; face=&quot;Times New Roman&quot;&gt;$$Y$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#330000;container=0;gradientColor=#FFA77A;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="997.1200000000001" y="1706" width="230.78" height="50" as="geometry" />
         </mxCell>
@@ -548,8 +545,8 @@
             <mxPoint x="1570" y="1606" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-42" value="&lt;font style=&quot;font-size: 45px;&quot; face=&quot;Times New Roman&quot;&gt;$$Y$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#330000;container=0;gradientColor=#FFA77A;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1007.1200000000001" y="1716" width="230.78" height="50" as="geometry" />
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-42" value="&lt;font style=&quot;font-size: 45px;&quot; face=&quot;Times New Roman&quot;&gt;Trained $$W$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#330000;container=0;gradientColor=#FFA77A;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="988.13" y="1890" width="361.87" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
