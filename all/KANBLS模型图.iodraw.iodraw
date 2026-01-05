@@ -452,10 +452,10 @@
           <mxGeometry x="1045.12" y="2175" width="264.88" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-7" value="Adaptive Rank Filter" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1034" y="2304.5" width="287.88" height="89" as="geometry" />
+          <mxGeometry x="1034" y="2290" width="287.88" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-8" value="&#xa;Reconstructed Activation \(\phi(x)\)&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="1029" y="2432" width="297.88" height="90" as="geometry" />
+          <mxGeometry x="1029" y="2432" width="297.88" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-9" value="N-Seed Training Loop" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1977.08" y="2160" width="211" height="81" as="geometry" />
