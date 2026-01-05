@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OmpyTRBiUeZpjFVnSryv-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="510" width="851" height="597" as="geometry" />
+        </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#5AA9E6;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="790" y="300" width="940" height="170" as="geometry" />
         </mxCell>
@@ -331,9 +334,6 @@
             <mxPoint x="1710" y="500" as="sourcePoint" />
             <mxPoint x="1990" y="480" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="OmpyTRBiUeZpjFVnSryv-1" value="PART 1: KANBLS Architecture (Modeling Phase)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="517" y="1654" width="851" height="597" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
