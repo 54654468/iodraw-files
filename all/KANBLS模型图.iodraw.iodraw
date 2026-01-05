@@ -463,7 +463,7 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-10" value="Calculate Variance \(\sigma(x)\)" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1547.06" y="2231" width="280" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-11" value="OCS Score&#xa;(Stability)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-11" value="OCS Score&#xa;(Stability)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1513.0100000000002" y="2372" width="132" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-12" value="LCS Score&#xa;(Locality)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
