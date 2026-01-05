@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.8151 SLBChan/10 SLBVPV/64-bit" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1631" dy="-281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3465" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -430,6 +430,85 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="834" y="4733" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-1" value="Phase 2: Explainability Consensus Analysis (Audit)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="4388" width="797" height="546" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-2" value="Branch B: Trustworthiness Audit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="4511" width="446" height="398" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-3" value="Quantitative Metrics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="562" y="4768" width="382" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-4" value="Branch A: Adaptive Rank Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="996" y="4511" width="291" height="398" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-5" value="ECA Input" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="860" y="4413" width="99" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-6" value="SVD Decomposition&#xa;W = U * S * V.T" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1044" y="4536" width="197" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-7" value="Extract Dominant Rule&#xa;(Principal Component)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1031" y="4652" width="221" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-8" value="Decoupled Function&#xa;(Soft-GAM)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="4793" width="202" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-9" value="N-Seed Training Loop&#xa;(Seed 1...N)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="648" y="4536" width="211" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-10" value="Calculate Statistics&#xa;(Mean &amp;amp; Std Dev)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="643" y="4652" width="221" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-11" value="OCS Score&#xa;(Stability)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="597" y="4793" width="132" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-12" value="LCS Score&#xa;(Locality)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="779" y="4793" width="129" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.72;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-5" target="Fy20U9Be5qf_tPQ4VsUo-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1142" y="4486" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-6" target="Fy20U9Be5qf_tPQ4VsUo-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-7" target="Fy20U9Be5qf_tPQ4VsUo-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-5" target="Fy20U9Be5qf_tPQ4VsUo-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="754" y="4486" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-9" target="Fy20U9Be5qf_tPQ4VsUo-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-10" target="Fy20U9Be5qf_tPQ4VsUo-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="663" y="4743" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-10" target="Fy20U9Be5qf_tPQ4VsUo-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="844" y="4743" />
             </Array>
           </mxGeometry>
         </mxCell>
