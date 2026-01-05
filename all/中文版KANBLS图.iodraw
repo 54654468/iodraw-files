@@ -38,13 +38,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;$$Y$$&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#330000;container=0;gradientColor=#FFA77A;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1267.361905234433" y="1778.8539236573456" width="198.4619201190771" height="59.539280958721704" as="geometry" />
+          <mxGeometry x="1265.151905234433" y="1880.0039236573457" width="198.4619201190771" height="59.539280958721704" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-17" value="$$W_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Times New Roman;container=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1239.851830811213" y="1897.9324855747893" width="59.53857603572314" height="29.769640479360852" as="geometry" />
+          <mxGeometry x="1242.001830811213" y="1808.6224855747894" width="59.53857603572314" height="29.769640479360852" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-18" value="$$W_2$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Times New Roman;container=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1403.0613545026044" y="1897.9324855747893" width="59.53857603572314" height="29.769640479360852" as="geometry" />
+          <mxGeometry x="1435.2313545026045" y="1793.7424855747893" width="59.53857603572314" height="29.769640479360852" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-19" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;B(x)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Times New Roman;container=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1479.9997196725376" y="1343.1834864624943" width="59.53857603572314" height="43.41405903240125" as="geometry" />
