@@ -60,7 +60,7 @@
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Fy20U9Be5qf_tPQ4VsUo-42">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1140" y="1832" as="sourcePoint" />
+            <mxPoint x="1350" y="1840" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-23" value="&lt;b&gt;Output Layer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;container=0;shadow=1;" parent="1" vertex="1">
@@ -551,7 +551,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-42" value="&lt;div&gt;&lt;span style=&quot;font-size: 35px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&lt;b&gt;Trained W&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#330000;container=0;gradientColor=#FFA77A;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1019" y="1880" width="221.87" height="60" as="geometry" />
+          <mxGeometry x="1238.59" y="1880" width="221.87" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
