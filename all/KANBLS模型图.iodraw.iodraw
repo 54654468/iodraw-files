@@ -451,7 +451,7 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-6" value="SVD Decomposition" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1045.12" y="2175" width="264.88" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-7" value="Extract Dominant Rule&#xa;(Principal Component)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-7" value="Adaptive Rank Filter" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1039.62" y="2291" width="287.88" height="89" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-8" value="Decoupled Function&#xa;(Soft-GAM)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
