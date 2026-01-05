@@ -442,7 +442,7 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-4" value="Branch A: Adaptive Rank Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1462.05" y="2193" width="291" height="398" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-5" value="ECA Input" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-5" value="ECA Input" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=50;" vertex="1" parent="1">
           <mxGeometry x="1326.05" y="2095" width="163.95" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-6" value="SVD Decomposition&#xa;W = U * S * V.T" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
