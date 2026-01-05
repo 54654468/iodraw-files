@@ -55,7 +55,7 @@
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-22" value="&lt;b&gt;KAN Layer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;container=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1549.2985809972708" y="1280.004447403462" width="316.05060778963036" height="29.769640479360852" as="geometry" />
         </mxCell>
-        <mxCell id="XPeTRrTn-zCAmBhQ9ene-23" value="&lt;b&gt;Out Layer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;container=0;shadow=1;" parent="1" vertex="1">
+        <mxCell id="XPeTRrTn-zCAmBhQ9ene-23" value="&lt;b&gt;Output Layer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=40;container=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1443.9536916673558" y="1879.39" width="316.05060778963036" height="29.769640479360852" as="geometry" />
         </mxCell>
         <mxCell id="jKd0UgpEtDatCujoyDtn-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;shadow=1;" parent="1" source="XPeTRrTn-zCAmBhQ9ene-24" target="XPeTRrTn-zCAmBhQ9ene-21" edge="1">
