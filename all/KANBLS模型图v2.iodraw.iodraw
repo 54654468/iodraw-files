@@ -203,7 +203,7 @@
           <mxGeometry x="1200" y="2090" width="248.88" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-7" value="   Rank Filter" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="2242.5" width="210" height="60" as="geometry" />
+          <mxGeometry x="1200" y="2242.5" width="210" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-8" value="&#xa;Reconstructed Activation \(\phi(x)\)&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1174.14" y="2368" width="297.88" height="78" as="geometry" />
@@ -321,10 +321,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e8thTBHbvBOdpVPY0mGq-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#336600;strokeColor=none;shadow=0;gradientColor=none;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="1497.44" y="2305" width="41.62" height="15" as="geometry" />
+          <mxGeometry x="1348.88" y="2273" width="41.62" height="15" as="geometry" />
         </mxCell>
         <mxCell id="e8thTBHbvBOdpVPY0mGq-41" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#336600;strokeColor=none;shadow=0;rounded=1;gradientColor=none;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="1503.2499999999998" y="2270" width="30" height="50" as="geometry" />
+          <mxGeometry x="1354.6899999999998" y="2238" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ydPEv4CTXiP3EJ9oYYDq-5" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=#2E8B57;fontSize=5;curved=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
