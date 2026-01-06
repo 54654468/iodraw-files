@@ -8,7 +8,7 @@
           <mxGeometry x="1261.9999999999995" y="2000" width="350" height="400" as="geometry" />
         </mxCell>
         <mxCell id="ydPEv4CTXiP3EJ9oYYDq-16" value="" style="whiteSpace=wrap;strokeWidth=2;gradientColor=default;fillColor=none;rounded=1;shadow=1;glass=0;strokeColor=default;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1099.07" y="2490" width="1100" height="560" as="geometry" />
+          <mxGeometry x="1040" y="2720" width="1100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-2" value="" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1692.98" y="2000" width="375" height="400" as="geometry" />
@@ -305,7 +305,7 @@
         <mxCell id="e8thTBHbvBOdpVPY0mGq-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Times New Roman;fillColor=#FFF9C4;" parent="1" vertex="1">
           <mxGeometry x="1386.9999999999998" y="2040" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e8thTBHbvBOdpVPY0mGq-32" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;$$V$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#D1C4E9;fillStyle=cross-hatch;" parent="1" vertex="1">
+        <mxCell id="e8thTBHbvBOdpVPY0mGq-32" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;$$V$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#D1C4E9;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="1453.9999999999998" y="2040" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8thTBHbvBOdpVPY0mGq-33" value="$$\Sigma$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;container=0;shadow=1;" parent="1" vertex="1">
@@ -365,6 +365,9 @@
             <mxPoint x="1879.98" y="2272.5" as="sourcePoint" />
             <mxPoint x="1697.25" y="2127.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7mTBeFjCFlneMJsE2SL4-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="2120" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
