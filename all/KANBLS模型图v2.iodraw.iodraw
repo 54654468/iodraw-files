@@ -211,8 +211,8 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-8" value="&#xa;Reconstructed Activation \(\phi(x)\)&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1261.0799999999997" y="2244.5" width="297.88" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-11" value="OCS Score&#xa;(Stability)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;textShadow=0;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="2340" width="154.49" height="61" as="geometry" />
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-11" value="OCS Score&#xa;(Stability)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;textShadow=0;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="2340" width="150" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-12" value="LCS Score&#xa;(Locality)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1880" y="2340" width="150" height="61" as="geometry" />
