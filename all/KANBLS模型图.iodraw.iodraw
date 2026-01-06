@@ -464,10 +464,10 @@
           <mxGeometry x="1547.06" y="2231" width="280" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-11" value="OCS Score&#xa;(Stability)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1513.0100000000002" y="2372" width="132" height="66" as="geometry" />
+          <mxGeometry x="1513.01" y="2372" width="156.99" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-12" value="LCS Score&#xa;(Locality)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1728.15" y="2372" width="129" height="66" as="geometry" />
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-12" value="LCS Score&#xa;(Locality)" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="2372" width="147.15" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-6" target="Fy20U9Be5qf_tPQ4VsUo-7">
           <mxGeometry relative="1" as="geometry">
