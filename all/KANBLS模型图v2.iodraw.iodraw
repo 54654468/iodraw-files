@@ -263,7 +263,7 @@
             <mxPoint x="1810" y="1596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-42" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFECB3;strokeColor=#FFB300;container=0;gradientColor=none;shadow=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-42" value="&lt;div&gt;\( W_final\)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFECB3;strokeColor=#FFB300;container=0;gradientColor=none;shadow=1;fontFamily=Times New Roman;align=right;" parent="1" vertex="1">
           <mxGeometry x="1538.13" y="1910" width="221.87" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e8thTBHbvBOdpVPY0mGq-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;fontFamily=Times New Roman;fillColor=#1B5E20;strokeColor=#1B5E20;" parent="1" vertex="1">
