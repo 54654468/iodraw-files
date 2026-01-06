@@ -199,7 +199,7 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-4" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1249.4599999999996" y="2022.5" width="350" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-5" value="Explainability Consensus Analysis (ECA) " style="rounded=0;arcSize=20;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-5" value="Explainability Consensus Analysis (ECA) " style="rounded=0;arcSize=20;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fillColor=#F5F5F5;" parent="1" vertex="1">
           <mxGeometry x="1361.14" y="2510" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-6" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;rounded=1;" parent="1" vertex="1">
@@ -263,7 +263,7 @@
             <mxPoint x="1810" y="1596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-42" value="&lt;div&gt;&lt;span style=&quot;font-size: 35px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&lt;b&gt;Trained W&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFECB3;strokeColor=#330000;container=0;gradientColor=none;shadow=1;" parent="1" vertex="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-42" value="&lt;div&gt;&lt;span style=&quot;font-size: 35px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&lt;b&gt;Trained W&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFECB3;strokeColor=#FFB300;container=0;gradientColor=none;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1538.1299999999999" y="1930" width="221.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e8thTBHbvBOdpVPY0mGq-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;" parent="1" vertex="1">
