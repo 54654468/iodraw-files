@@ -287,10 +287,10 @@
         <mxCell id="e8thTBHbvBOdpVPY0mGq-11" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Calculate Variance&amp;nbsp;\(\sigma(x)\)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=25;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1684.7100000000003" y="2193" width="365.46" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="e8thTBHbvBOdpVPY0mGq-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="e8thTBHbvBOdpVPY0mGq-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fillColor=#616161;" parent="1" vertex="1">
           <mxGeometry x="1861.1399999999999" y="2045" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e8thTBHbvBOdpVPY0mGq-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="e8thTBHbvBOdpVPY0mGq-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fillColor=#BDBDBD;" parent="1" vertex="1">
           <mxGeometry x="1871.1399999999999" y="2055" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e8thTBHbvBOdpVPY0mGq-26" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fillColor=#F5F5F5;" parent="1" vertex="1">
