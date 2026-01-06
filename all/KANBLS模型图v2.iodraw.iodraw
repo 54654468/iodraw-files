@@ -202,7 +202,7 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-5" value="Explainability Consensus Analysis (ECA) " style="rounded=0;arcSize=20;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1317.22" y="2600" width="600" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-6" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-6" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1285.5799999999997" y="2032.5" width="248.88" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-7" value="   Rank Filter" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;align=left;" parent="1" vertex="1">
