@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-3" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1226.92" y="1850" width="893.08" height="620" as="geometry" />
+          <mxGeometry x="1180" y="1910" width="940" height="560" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-2" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1680.44" y="2022.5" width="375" height="400" as="geometry" />
@@ -264,7 +264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-42" value="&lt;div&gt;&lt;span style=&quot;font-size: 35px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&lt;b&gt;Trained W&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#330000;container=0;gradientColor=#FFA77A;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1539.06" y="1870" width="221.87" height="60" as="geometry" />
+          <mxGeometry x="1538.1299999999999" y="1930" width="221.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e8thTBHbvBOdpVPY0mGq-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;" parent="1" vertex="1">
           <mxGeometry x="2100" y="1349.99" width="71.88" height="52.52" as="geometry" />
