@@ -208,10 +208,10 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-8" value="&#xa; \(\phi(x)\)&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1366.81" y="2250" width="111.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-11" value="OCS Score&#xa;(Stability)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;textShadow=0;rounded=1;fillColor=#007FFF;strokeColor=#CCCCCC;dashed=1;" parent="1" vertex="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-11" value="OCS Score&#xa;(Stability)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;textShadow=0;rounded=1;fillColor=#007FFF;strokeColor=#CCCCCC;dashed=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1722.54" y="2317.5" width="150" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-12" value="LCS Score&#xa;(Locality)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;rounded=1;strokeColor=#CCCCCC;fillColor=#673AB7;" parent="1" vertex="1">
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-12" value="LCS Score&#xa;(Locality)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;rounded=1;strokeColor=#CCCCCC;fillColor=#673AB7;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1892.54" y="2317.5" width="150" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=Times New Roman;" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-6" target="Fy20U9Be5qf_tPQ4VsUo-7" edge="1">
