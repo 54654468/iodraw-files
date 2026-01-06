@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-3" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1696" y="2406" width="382" height="114" as="geometry" />
+          <mxGeometry x="1660" y="2590" width="382" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-4" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1204.5899999999997" y="2130" width="350" height="400" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="1228.5499999999997" y="2352" width="297.88" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-11" value="OCS Score&#xa;(Stability)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1712.9499999999998" y="2430" width="156.99" height="66" as="geometry" />
+          <mxGeometry x="1687.2699999999998" y="2430" width="156.99" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-12" value="LCS Score&#xa;(Locality)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1909.9399999999998" y="2430" width="147.15" height="66" as="geometry" />
