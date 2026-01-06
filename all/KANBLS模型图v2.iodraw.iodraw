@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;container=0;shadow=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2300" y="1333.13" width="49.62" height="283.51" as="geometry" />
+          <mxGeometry x="2012.26" y="1333.13" width="49.62" height="283.51" as="geometry" />
         </mxCell>
         <mxCell id="XPeTRrTn-zCAmBhQ9ene-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;container=0;shadow=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1893.68" y="1333.13" width="49.62" height="283.51" as="geometry" />
@@ -266,7 +266,7 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-42" value="&lt;div&gt;&lt;span style=&quot;font-size: 35px; background-color: initial;&quot;&gt;&lt;b&gt;Trained W&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFECB3;strokeColor=#FFB300;container=0;gradientColor=none;shadow=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1538.1299999999999" y="1930" width="221.87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e8thTBHbvBOdpVPY0mGq-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="e8thTBHbvBOdpVPY0mGq-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;fontFamily=Times New Roman;fillColor=#1B5E20;strokeColor=#1B5E20;" parent="1" vertex="1">
           <mxGeometry x="2088.45" y="1352.63" width="71.88" height="52.52" as="geometry" />
         </mxCell>
         <mxCell id="e8thTBHbvBOdpVPY0mGq-3" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" edge="1">
