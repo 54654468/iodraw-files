@@ -326,15 +326,10 @@
             <mxPoint x="1496.9999999999998" y="2388" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ydPEv4CTXiP3EJ9oYYDq-6" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#009688;fontSize=5;strokeWidth=4;shadow=0;fontFamily=Times New Roman;" parent="1" edge="1">
+        <mxCell id="ydPEv4CTXiP3EJ9oYYDq-6" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;fontSize=5;strokeWidth=4;shadow=0;fontFamily=Times New Roman;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1376.9999999999998" y="2390" as="sourcePoint" />
             <mxPoint x="1376.9999999999998" y="2318" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7mTBeFjCFlneMJsE2SL4-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ydPEv4CTXiP3EJ9oYYDq-6">
-          <mxGeometry x="0.0594" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ydPEv4CTXiP3EJ9oYYDq-11" value="" style="endArrow=none;html=1;rounded=1;strokeColor=#009688;curved=0;strokeWidth=4;fontFamily=Times New Roman;" parent="1" edge="1">
