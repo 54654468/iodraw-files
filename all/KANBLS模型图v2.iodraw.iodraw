@@ -305,7 +305,7 @@
         <mxCell id="e8thTBHbvBOdpVPY0mGq-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1374.4599999999998" y="2062.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e8thTBHbvBOdpVPY0mGq-32" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;$$V$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#D1C4E9;" parent="1" vertex="1">
+        <mxCell id="e8thTBHbvBOdpVPY0mGq-32" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;$$V$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1441.4599999999998" y="2062.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8thTBHbvBOdpVPY0mGq-33" value="$$\Sigma$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;container=0;shadow=1;" parent="1" vertex="1">
