@@ -215,7 +215,7 @@
           <mxGeometry x="1687.2699999999998" y="2430" width="156.99" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-12" value="LCS Score&#xa;(Locality)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1909.9399999999998" y="2430" width="147.15" height="66" as="geometry" />
+          <mxGeometry x="1913.09" y="2430" width="147.15" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="Fy20U9Be5qf_tPQ4VsUo-6" target="Fy20U9Be5qf_tPQ4VsUo-7" edge="1">
           <mxGeometry relative="1" as="geometry">
