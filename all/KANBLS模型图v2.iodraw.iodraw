@@ -202,8 +202,8 @@
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-6" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1298.1199999999997" y="2010" width="248.88" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-7" value="Adaptive &#xa;Rank Selector" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;align=left;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="2132.5" width="240" height="67.5" as="geometry" />
+        <mxCell id="Fy20U9Be5qf_tPQ4VsUo-7" value="  Adaptive &#xa;  Rank Selector" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;align=left;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1302.56" y="2132.5" width="240" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-8" value="&#xa; Visualization:  \(\phi(x)\)&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1312.56" y="2230" width="220" height="80" as="geometry" />
