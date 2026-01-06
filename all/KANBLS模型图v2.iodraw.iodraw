@@ -323,8 +323,8 @@
             <mxPoint x="1384.4599999999998" y="2042.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e8thTBHbvBOdpVPY0mGq-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#336600;strokeColor=none;shadow=0;gradientColor=none;rotation=90;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1143.8699999999997" y="2280" width="41.62" height="15" as="geometry" />
+        <mxCell id="e8thTBHbvBOdpVPY0mGq-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#336600;strokeColor=none;shadow=0;gradientColor=none;rotation=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1129.9999999999998" y="2182.5" width="41.62" height="15" as="geometry" />
         </mxCell>
         <mxCell id="e8thTBHbvBOdpVPY0mGq-41" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#336600;strokeColor=none;shadow=0;rounded=1;gradientColor=none;rotation=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1119.9999999999995" y="2165" width="30" height="50" as="geometry" />
