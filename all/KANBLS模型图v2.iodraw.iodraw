@@ -8,7 +8,7 @@
           <mxGeometry x="1280" y="2000" width="300" height="400" as="geometry" />
         </mxCell>
         <mxCell id="ydPEv4CTXiP3EJ9oYYDq-16" value="" style="whiteSpace=wrap;strokeWidth=2;gradientColor=default;fillColor=none;rounded=1;shadow=1;glass=0;strokeColor=default;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1191.38" y="1880" width="928.02" height="560" as="geometry" />
+          <mxGeometry x="1191.38" y="1880" width="928.02" height="550" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-2" value="" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1700" y="2000" width="375" height="400" as="geometry" />
@@ -197,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-5" value="Explainability Consensus Analysis (ECA) " style="rounded=0;arcSize=20;strokeWidth=2;fontSize=30;fontFamily=Times New Roman;fillColor=#F5F5F5;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="1361.14" y="2510" width="600" height="60" as="geometry" />
+          <mxGeometry x="1363.68" y="2450" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-6" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1298.1199999999997" y="2010" width="248.88" height="90" as="geometry" />
