@@ -326,7 +326,7 @@
         <mxCell id="e8thTBHbvBOdpVPY0mGq-41" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#336600;strokeColor=none;shadow=0;rounded=1;gradientColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="1084.1899999999998" y="2417.5" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ydPEv4CTXiP3EJ9oYYDq-5" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#2E8B57;fontSize=5;" edge="1" parent="1">
+        <mxCell id="ydPEv4CTXiP3EJ9oYYDq-5" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=#2E8B57;fontSize=5;curved=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="2570" as="sourcePoint" />
             <mxPoint x="650" y="2570" as="targetPoint" />
@@ -341,7 +341,7 @@
         <mxCell id="ydPEv4CTXiP3EJ9oYYDq-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="2570" as="sourcePoint" />
-            <mxPoint x="620" y="2510" as="targetPoint" />
+            <mxPoint x="630" y="2510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
