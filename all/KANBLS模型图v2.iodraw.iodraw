@@ -10,7 +10,7 @@
         <mxCell id="ydPEv4CTXiP3EJ9oYYDq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8thTBHbvBOdpVPY0mGq-29" target="e8thTBHbvBOdpVPY0mGq-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e8thTBHbvBOdpVPY0mGq-29" value="  N-seed" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;align=left;" parent="1" vertex="1">
+        <mxCell id="e8thTBHbvBOdpVPY0mGq-29" value="  N-seed" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;align=left;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1737.44" y="2035" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XPeTRrTn-zCAmBhQ9ene-23" target="Fy20U9Be5qf_tPQ4VsUo-42" edge="1">
@@ -284,7 +284,7 @@
             <mxPoint x="2130.54" y="1529.64" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e8thTBHbvBOdpVPY0mGq-11" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Calculate Variance&amp;nbsp;\(\sigma(x)\)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=25;" parent="1" vertex="1">
+        <mxCell id="e8thTBHbvBOdpVPY0mGq-11" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Calculate Variance&amp;nbsp;\(\sigma(x)\)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=25;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1684.7100000000003" y="2193" width="365.46" height="100" as="geometry" />
         </mxCell>
         <mxCell id="e8thTBHbvBOdpVPY0mGq-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
