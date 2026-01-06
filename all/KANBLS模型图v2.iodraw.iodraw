@@ -203,7 +203,7 @@
           <mxGeometry x="1200" y="2090" width="248.88" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-7" value="        \(\sigma_1\) Only" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1180.5" y="2242.5" width="287.88" height="60" as="geometry" />
+          <mxGeometry x="850" y="2200" width="287.88" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fy20U9Be5qf_tPQ4VsUo-8" value="&#xa;Reconstructed Activation \(\phi(x)\)&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1174.14" y="2368" width="297.88" height="78" as="geometry" />
